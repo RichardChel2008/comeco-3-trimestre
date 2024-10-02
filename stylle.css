@@ -29,3 +29,7 @@ border-width: 6px;}
 h2 {border-style: groove;
 border-color: blue;
 border-width: 12px;}
+
+h3{border-style: dotted;
+border-color: aqua;
+border-width: 13px;}
