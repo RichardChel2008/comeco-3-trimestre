@@ -24,4 +24,8 @@ border-width: 10px;}
 
 h1 {border-style: double;
 border-color: aqua;
-border-width: 6px;}
+border-width: 6px;}    
+
+h2 {border-style: groove;
+border-color: blue;
+border-width: 12px;}
